@@ -3,7 +3,7 @@
 Interview
 ===========
 
-Code in this performs task specified in the interview question. No library used\n. 
+Code in this performs task specified in the interview question.
 Please take into account that to work with this code use
 <ul>
   <li>IntelliJ IDEA </li>
