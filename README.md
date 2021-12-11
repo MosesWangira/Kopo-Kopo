@@ -4,7 +4,7 @@ Interview
 ===========
 
 Code in this performs task specified in the interview question. No library used\n. 
-Please take into account that to work with this code use \n
+Please take into account that to work with this code use\n
 <li>
   <ul>IntelliJ IDEA </ul>
   <ul>JDK Version 17 </ul>
