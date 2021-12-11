@@ -134,11 +134,8 @@ object MyLogic {
                 }
             }
         }
-
         println(uniqueArraysElements)
         println(consecutiveDaysArray)
-
-
         /**
          * Map unique elements with returned list(same size)
          * */
